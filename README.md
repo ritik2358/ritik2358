@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ritik2358
 - 👀 I’m interested in Backend Development
 - 🌱 I’m currently learning Different tools od DevOps.
-- 💞️ I’m looking to collaborate on new learners who are new to Programming.
+- 💞️ I’m looking to collaborate on Different Projects.
 - 📫 How to reach me ritikraj2909@gmail.com
 
 <!---
