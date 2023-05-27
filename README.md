@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ritik2358
-- 👀 I’m interested in Web Development and DevOps.
-- 🌱 I’m currently learning Backend Development and DevOps tools.
+- 👀 I’m interested in Full Stack Web Development(MERN) and DevOps.
+- 🌱 I’m currently learning DSA, Backend Development and DevOps tools.
 - 💞️ I’m looking to collaborate on Different Projects.
 - 📫 How to reach me ritikraj2909@gmail.com
 
