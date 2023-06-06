@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p>
-<a href="https://linkedin.com/in/rits2358"><img src="https://img.shields.io/badge/-rits2358-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/rits2358"><img src="https://img.shields.io/badge/-Ritik-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:ritikraj2909@gmail.com"><img src="https://img.shields.io/badge/-ritikraj2909@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritik2358&show_icons=true&locale=en&layout=compact" alt="Ritik Raj" /></p> -->
