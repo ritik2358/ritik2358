@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @ritik2358
-- 👀 I’m interested in Full Stack Web Development(MERN) and DevOps.
-- 🌱 I’m currently learning DSA, Backend Development and DevOps tools.
+<h1 align="center">Hi 👋, I'm Ritik Raj </h1>
+<h3 align="center">An Enthusiastic Learner</h3>
+
+- 🌱 I’m interested in **Full Stack Web Development(MERN)** and **DevOps**.
+
+- 👨‍💻 I’m currently learning DSA, Backend Development and DevOps tools.
+
 - 💞️ I’m looking to collaborate on Different Projects.
+
 - 📫 How to reach me **ritikraj2909@gmail.com**
 
 <!---
@@ -19,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff)
-
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
