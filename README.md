@@ -30,6 +30,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
 <a href="https://github.com/ritik2358">
+<!--   <p>&nbsp;<img align="center" src="https://github-readme-stats-three-theta.vercel.app/api?username=ritik2358&show_icons=true&theme=algolia&locale=en" alt="ritik2358" /></p> -->
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ritik2358&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ritik2358&layout=compact&langs_count=8&theme=algolia"/>
 </a>
