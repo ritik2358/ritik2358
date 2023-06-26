@@ -26,22 +26,21 @@ You can click the Preview link to take a look at your changes.
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
+![Postman](https://img.shields.io/badge/-Postman-%23E44D27?style=for-the-badge&logo=Postman&logoColor=ffffff)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<a href="https://github.com/ritik2358">
-<!--   <p>&nbsp;<img align="center" src="https://github-readme-stats-three-theta.vercel.app/api?username=ritik2358&show_icons=true&theme=algolia&locale=en" alt="ritik2358" /></p> -->
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ritik2358&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ritik2358&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+ <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ritik2358&layout=compact&langs_count=8&theme=algolia"/>
+ </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritik2358&theme=algolia" alt="ritik2358" /></p>
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p>
 <a href="https://linkedin.com/in/rits2358"><img src="https://img.shields.io/badge/-Ritik-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:ritikraj2909@gmail.com"><img src="https://img.shields.io/badge/-ritikraj2909@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritik2358&show_icons=true&locale=en&layout=compact" alt="Ritik Raj" /></p> -->
 
