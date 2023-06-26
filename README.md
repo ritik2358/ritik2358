@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/ritik2358">
 <!--   <p>&nbsp;<img align="center" src="https://github-readme-stats-three-theta.vercel.app/api?username=ritik2358&show_icons=true&theme=algolia&locale=en" alt="ritik2358" /></p> -->
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ritik2358&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
