@@ -6,7 +6,7 @@
 
 - 👨‍💻 I’m currently learning DSA, Backend Development and DevOps tools.
 
-- 💞️ I’m looking to collaborate on Different Projects.
+- 💞️ I’m looking to collaborate on Full Stack Applications.
 
 - 📫 How to reach me **ritikraj2909@gmail.com**
 
