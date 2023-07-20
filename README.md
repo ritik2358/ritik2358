@@ -40,6 +40,8 @@ You can click the Preview link to take a look at your changes.
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![NESTJS](https://img.shields.io/badge/NESTJS-12100E?style=for-the-badge&logo=nestjs&logoColor=white)
+
 
 
 ### ⚙️ &nbsp;GitHub Analytics
