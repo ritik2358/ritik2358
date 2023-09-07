@@ -59,8 +59,8 @@ You can click the Preview link to take a look at your changes.
 <p>
 <a href="https://linkedin.com/in/rits2358"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:ritikraj2909@gmail.com"><img src="https://img.shields.io/badge/-ritikraj2909@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/ritik117/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/>
-</a>
+<a href="https://portfolio-ritik.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-blue?style=flat&logo=font-awesome&logoColor=white&logoWidth=30"/></a>
+<a href="https://www.instagram.com/ritik117/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
 </p>
 
