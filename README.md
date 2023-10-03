@@ -54,6 +54,10 @@ You can click the Preview link to take a look at your changes.
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritik2358&theme=algolia" alt="ritik2358"/></p>
 
 
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ritik2358&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p>
@@ -64,10 +68,7 @@ You can click the Preview link to take a look at your changes.
 
 </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ritik2358&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
----
+### Total Visitors
 [![](https://visitcount.itsvg.in/api?id=ritik2358&icon=2&color=6)](https://visitcount.itsvg.in)
 
 <!-- ## Total Visitors
