@@ -69,11 +69,11 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 ### Total Visitors
-[![](https://visitcount.itsvg.in/api?id=ritik2358&icon=2&color=6)](https://visitcount.itsvg.in)
+<!--[![](https://visitcount.itsvg.in/api?id=ritik2358&icon=2&color=6)](https://visitcount.itsvg.in)-->
 
-<!-- ## Total Visitors
+<!-- ## Total Visitors-->
 
- ![VisitorCount](https://profile-counter.glitch.me/ritik2358/count.svg) -->
+![VisitorCount](https://profile-counter.glitch.me/ritik2358/count.svg)
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritik2358&show_icons=true&locale=en&layout=compact" alt="Ritik Raj" /></p> -->
 
