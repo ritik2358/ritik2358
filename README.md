@@ -1,3 +1,4 @@
+<!--![MasterHead](https://user-images.githubusercontent.com/88606641/209963625-914f2b70-812c-4adb-b544-b3fb40c43e39.png)-->
 <h1 align="center"> Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> I'm Ritik Raj </h1>
 <h3 align="center">An Enthusiastic Learner</h3>
 <!-- <br/> -->
