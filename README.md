@@ -49,10 +49,12 @@ You can click the Preview link to take a look at your changes.
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ritik2358&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ritik2358&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ritik2358&theme=algolia&show_icons=true&show=reviews,prs_merged,prs_merged_percentage"/>
+ <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ritik2358&layout=compact&langs_count=8&theme=algolia"/>
  </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritik2358&theme=algolia" alt="ritik2358"/></p>
+<!--<p><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?>username=ritik2358&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/></p>-->
+<!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritik2358&hide_progress=true"/></p>-->
 
 
 ### 🏆 GitHub Trophies
